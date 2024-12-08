@@ -1,0 +1,133 @@
+absl-py==1.0.0
+aiohttp==3.8.4
+aiosignal==1.3.1
+astor==0.8.1
+async-timeout==4.0.2
+asynctest==0.13.0
+attrs==21.4.0
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650292996413/work
+brotlipy==0.7.0
+cachetools==4.2.4
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.0.3
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
+cycler==0.11.0
+Cython==0.29.23
+datasets==2.12.0
+dill==0.3.6
+distlib==0.3.7
+dulwich==0.20.35
+et-xmlfile==1.1.0
+fasttext==0.9.2
+filelock==3.12.2
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.28.5
+frozenlist==1.3.3
+fsspec==2023.1.0
+future==0.18.2
+gast @ file:///tmp/build/80754af9/gast_1637837472536/work
+gensim==4.1.2
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///C:/ci/grpcio_1637590993074/work
+h5py==2.10.0
+huggingface-hub==0.14.1
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+importlib-metadata==6.7.0
+joblib==1.1.0
+jsonlines==3.1.0
+Keras==2.3.1
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.3.2
+Mako @ file:///C:/b/abs_e2_71_9f9g/croot/mako_1665472436410/work
+Markdown @ file:///C:/b/abs_98lv_ucina/croot/markdown_1671541919225/work
+MarkupSafe @ file:///C:/ci/markupsafe_1654508076077/work
+matplotlib==3.5.1
+matplotlib-venn==0.11.6
+mkl-fft==1.0.14
+mkl-random==1.0.4
+mkl-service==2.3.0
+multidict==6.0.4
+multiprocess==0.70.14
+nltk==3.4.5
+numexpr==2.8.3
+numpy @ file:///D:/bld/numpy_1621506392860/work
+oauthlib==3.1.1
+olefile==0.46
+opencv-python==4.5.4.60
+openprompt==1.0.1
+openpyxl==3.1.2
+packaging==21.3
+pandas==1.0.1
+pathtools==0.1.2
+Pillow==8.4.0
+pipenv==2023.10.3
+platformdirs==3.11.0
+protobuf==3.20.3
+psutil==5.8.0
+pyarrow==12.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybind11==2.9.2
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pygpu==0.7.6
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing==3.0.6
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.2
+python-version==0.0.2
+pytz==2021.3
+PyYAML==6.0
+regex==2021.11.10
+requests @ file:///C:/ci/requests_1657735288441/work
+requests-oauthlib==1.3.0
+responses==0.18.0
+rouge==1.0.0
+rsa==4.8
+sacremoses==0.0.53
+safetensors==0.3.1
+scikit-learn==1.0.1
+scipy @ file:///C:/bld/scipy_1637806996411/work
+seaborn==0.11.2
+sentence-transformers==2.2.2
+sentencepiece==0.1.96
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==5.2.1
+soupsieve @ file:///C:/b/abs_fasraqxhlv/croot/soupsieve_1666296394662/work
+tables==3.7.0
+tensorboard==1.14.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow @ file:///D:/bld/tensorflow_1594833538462/work/tensorflow-1.14.0-cp37-cp37m-win_amd64.whl
+tensorflow-estimator==1.14.0
+termcolor @ file:///C:/b/abs_16qe7jhw7n/croot/termcolor_1668084642458/work
+Theano==1.0.5
+threadpoolctl==3.0.0
+tokenizers==0.12.1
+torch==1.13.1+cu117
+torchsampler==0.1.2
+torchtext==0.6.0
+torchvision @ file:///D:/hyl/LAMDA-SSL-master/torchvision-0.14.1%2Bcu117-cp37-cp37m-win_amd64.whl
+tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
+transformers==4.30.2
+tree-sitter==0.20.1
+typing_extensions==4.7.1
+urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
+venn==0.1.3
+virtualenv==20.24.6
+watchdog==0.10.4
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+word2vec==0.9.4+2.g8204e5c
+wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
+xlrd==1.2.0
+xxhash==3.2.0
+yacs==0.1.8
+yarl==1.9.2
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
