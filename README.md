@@ -1,9 +1,9 @@
-# DMVAF: A Decentralized Learning Framework for Multimodal Vulnerability Assessment
+# FedMVA: Enhancing Software Vulnerability Assessment via Federated Multimodal Learning
 
 This is the source code to the paper "DMVAF: A Decentralized Learning Framework for Multimodal Vulnerability Assessment". Please refer to the paper for the experimental details.
 
 # Approach
-![image](https://github.com/Liuqy1213/DMVAF/blob/main/Figs/framework.png)"
+![image](https://github.com/Liuqy1213/FedMVA/blob/main/Figs/framework.png)"
 
 # Data preprocessing
 You can download the preprocessed dataset from [here](*https://drive.google.com/file/d/1gMUqkgg0JkfgC5EZFZWBSrcOXD2bvYKn/view?usp=sharing*) and move it to `data`.
